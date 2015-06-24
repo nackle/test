@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /manage/wp-admin/
+Disallow: /page/2/
+Disallow: /page/3/
+Disallow: /page/4/
+Disallow: /page/5/
+Disallow: /page/6/
+Disallow: /page/7/
+Disallow: /page/8/
+Disallow: /hp/page/2/
+Disallow: /hp/page/3/
+Disallow: /hp/page/4/
+Disallow: /seo/page/2/
+Disallow: /seo/page/3/
+Disallow: /seo/page/4/
+Disallow: /web-improve/page/2/
+Disallow: /web-improve/page/3/
+
+Sitemap: http://dreamteller.biz/sitemap.xml
